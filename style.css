@@ -1,0 +1,25 @@
+.heading {
+    background-color: indigo;
+    color: lavenderblush;
+    box-shadow: lightskyblue;
+}
+
+.div {
+    background-color: lightskyblue;
+    color: indigo;
+    width: 80%;
+    border-radius:30;
+    border-width: 20;
+    border-color: lightskyblue;   
+}
+
+.copy_right_footer 
+{
+  position:fixed;
+  bottom:0;
+  color:snow;
+  background-color: lightseagreen;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
